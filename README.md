@@ -1,16 +1,5 @@
 <h1>Hi, I'm Angelito! <br/><a href="https://github.com/AngelitoOOSD">IT Specialist</a></h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
-
-- <b>Active Directory Set-Up</b>
-  - [Configure Active Directory in Oracle VirtualBox, Add Users using PowerShell
-](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Jira Help Desk Ticketing System</b>
-  - [Set-up Jira Help Desk Environment](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-- <b>Group Policy Management</b>
-  - [Configure Group Policy]()
-
-<h2> 🤳 Connect with me:</h2>
-<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-
-[linkedin](https://www.linkedin.com/in/angelito-tuguinay-bb184619a/)
+<h2>I am highly motivated and eager to pursue a professional career in the IT industry. I am seeking a long term position with an organization that promotes personal development and opportunities for professional growth.
+I enjoy building custom personal computers and troubleshooting hardware like desktops, printers, and mobile devices. I enjoy learning about technology, especially computer networks. I am eager to apply the knowledge I learned from studying for my tech certifications. 
+</h2>
